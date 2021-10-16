@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [EFS](http://efs.rf.gd)
 - 🌱 I’m currently learning more Python!
-- 💬 Ask me about Web Development and 
+- 💬 Ask me about Web Development  
 - 📫 How to reach me: Discord - H4rry#2903
 
 
