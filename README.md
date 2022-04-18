@@ -1,9 +1,9 @@
 ### Hi there 👋
 ### I'm Harry!
 
-- 🌱 I’m currently learning more Python!
+- 🐋 Learning Docker
 - 💬 Ask me about Web Development  
-- 📫 How to reach me: Discord - H4rry#2903
+- 📫 How to reach me: Discord - Harryy#9132
 
 
 
