@@ -3,7 +3,7 @@
 
 - 🐋 Learning Docker
 - 💬 Ask me about Web Development  
-- 📫 How to reach me: Discord - Harryy#9132
+- 🤓 I like computers
 
 
 
