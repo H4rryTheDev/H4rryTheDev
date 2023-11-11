@@ -1,26 +1,23 @@
-### Hi there 👋
+### Oh hey 👋
 ### I'm Harry!
 
-- 🐋 Learning Docker
-- 💬 Ask me about Web Development  
-- 🤓 I like computers
+
+- 😎 Have used countless IT systems (Cloud platforms, variety of softwares and machine-managment applications)
+- 🤓 I LOVE Maths, Physics, Chemistry (Pretty much evrything with numbers!)
+- 📅 Years of experience in enterprise-level environments   
+- 💬 Ask me about anything!
+- 📶 Network SysAdmin
+  
 
 
 
 ![](https://komarev.com/ghpvc/?username=H4rryTheDev&style=flat-square&color=101012)
 
-# Languages and Tools:
+# Languages and Tools (To name a few 😉):
 
-<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<br />
-<br />
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,cs,cpp,html,css,js,dotnet,docker,firebase,grafana,heroku,kubernetes,linux,py,supabase&perline=6)](https://skillicons.dev)
+
+### And so much more!
 
 
 
