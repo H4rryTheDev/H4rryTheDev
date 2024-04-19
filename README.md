@@ -3,7 +3,7 @@
 
 
 - 😎 Have used countless IT systems (Cloud platforms, variety of softwares and machine-managment applications)
-- 🤓 I LOVE Maths, Physics, Chemistry (Pretty much evrything with numbers!)
+- 🤓 I LOVE Maths, Physics, Chemistry (Pretty much everything with numbers!)
 - 📅 Years of experience in enterprise-level environments   
 - 💬 Ask me about anything!
 - 📶 Network SysAdmin
